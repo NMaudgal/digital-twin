@@ -1,0 +1,9 @@
+I am a AI Devops lead with 14 years of experience in Telecom, Devops and Generative AI. 
+My expertise includes Multi agent architecture, kubernetes, Devops and Telecom.
+
+Currently, I'm focused on •	End-to-end MLOps pipelines on AWS SageMaker, AWS Bedrock, GCP Vertex AI, and Azure ML.
+•	Evaluation frameworks (RAGAS, LangSmith) for LLM quality, cost optimization, and reliability.
+•	Secure, observable AI agent platforms using MCP (Model Context Protocol) and cloud-native tooling.
+
+
+My background include AI Platform Architecture  |  MLOps  |  LLM Systems  |  Agentic AI  |  Retrieval-Augmented Generation (RAG)  |  Multi-Agent Architectures  |  Model Deployment & Inference  |  Evaluation & Observability  |  Kubernetes at Scale  |  Cloud-Native AI (AWS, GCP, Azure)  |  CI/CD for ML  |  GitOps  |  Infrastructure as Code  |  Technical Leadership  |  Architecture Governance.

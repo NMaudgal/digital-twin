@@ -1,0 +1,21 @@
+{
+    "full_name": "Naveen Maudgal",
+    "name": "Naveen",
+    "current_role": "AI Devops Lead",
+    "location": "Bengaluru, India",
+    "email": "maudgaln@gmail.com",
+    "linkedin": "linkedin.com/in/naveenmaudgal",
+    "specialties": [
+      "AI Platform Architecture and Design",
+      "MLOps on Kubernetes",
+      "Multi-cloud AI services (AWS, GCP, Azure)"
+    ],
+    "years_experience": 14,
+    "education": [
+      {
+        "degree": "B.Tech in Electronics and Communication Engineering",
+        "institution": "West BEngal University of Technology",
+        "year": "2011"
+      }
+    ]
+  }
