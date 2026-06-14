@@ -1,4 +1,6 @@
-              **AI Digital Twin**
+
+# **AI Digital Twin**
+
 
 In this project, I implemented a complete CI/CD and DevOps pipeline for an AI Digital Twin platform on AWS.
 I used GitHub Actions to automate deployments across Dev, Test, and Production environments. 
