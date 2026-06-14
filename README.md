@@ -10,9 +10,12 @@ The architecture includes CloudFront and S3 for frontend hosting, API Gateway an
 The pipeline supports automated deployment, environment isolation, infrastructure teardown, CloudFront cache invalidation, and centralized monitoring through CloudWatch.
 Overall, this project demonstrates production-grade Infrastructure as Code, CI/CD automation, multi-environment management, and secure serverless AI deployment on AWS.
 
+## **AI Digital Twin basic architecture**
 
 
 ![Architecture Twin](Architecture-twin.png)
+
+## **AI Digital Twin Complete architecture**
 
 ![Digital Twin Architecture](Digital%20twin%20architecture.png)
 
