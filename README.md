@@ -11,7 +11,7 @@ API Gateway
   ↓
 Lambda Function (Backend)
   ↓
-  ├─ AWS Bedrock (AI responses) ← NEW!
+  ├─ AWS Bedrock (AI responses)
   └─ S3 Memory Bucket (persistence)
 
 
